@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>IMBC hub</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-10-31T17:30:56.930Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Dragon</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Γ(x)</title>
+    <link href="http://example.com/2023/11/01/%CE%93(x)/"/>
+    <id>http://example.com/2023/11/01/%CE%93(x)/</id>
+    <published>2023-10-31T17:29:18.342Z</published>
+    <updated>2023-10-31T17:30:56.930Z</updated>
+    
+    <content type="html"><![CDATA[<p>1.<a href="http://www.360doc.com/content/21/1030/21/57390934_1002083318.shtml">http://www.360doc.com/content/21/1030/21/57390934_1002083318.shtml</a><br>2.<a href="https://cosx.org/2014/07/gamma-function-1">https://cosx.org/2014/07/gamma-function-1</a><br>3.<a href="https://cosx.org/2014/07/gamma-function-2/">https://cosx.org/2014/07/gamma-function-2/</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;1.&lt;a href=&quot;http://www.360doc.com/content/21/1030/21/57390934_1002083318.shtml&quot;&gt;http://www.360doc.com/content/21/1030/21/57390934_10020833</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>

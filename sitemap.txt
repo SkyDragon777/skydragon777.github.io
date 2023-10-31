@@ -1,0 +1,7 @@
+http://example.com/2023/11/01/%CE%93(x)/
+http://example.com/library/index.html
+http://example.com/category/index.html
+http://example.com/about/index.html
+http://example.com/tag/index.html
+http://example.com/library-of-dragon/index.html
+http://example.com/
