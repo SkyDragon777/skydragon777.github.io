@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-10-31T18:04:08.700Z</updated>
+  <updated>2023-11-07T13:53:01.716Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>imbc的mc服务器</title>
+    <link href="http://example.com/2023/11/07/mc/"/>
+    <id>http://example.com/2023/11/07/mc/</id>
+    <published>2023-11-07T13:52:37.000Z</published>
+    <updated>2023-11-07T13:53:01.716Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="使用HMCL启动器玩mc服务器"><a href="#使用HMCL启动器玩mc服务器" class="headerlink" title="使用HMCL启动器玩mc服务器"></a>使用HMCL启动器玩mc服务器</h1><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>HMCL:   <a href="https://hmcl.huangyuhui.net/download">https://hmcl.huangyuhui.net/download</a></p><h2 id="教程"><a href="#教程" class="headerlink" title="教程"></a>教程</h2><h3 id="1-点击下载地址，选择合适的方式下载"><a href="#1-点击下载地址，选择合适的方式下载" class="headerlink" title="1. 点击下载地址，选择合适的方式下载"></a>1. 点击下载地址，选择合适的方式下载</h3><p><img src="/img/mc/1699363942288.png" alt="1699363942288"></p><h3 id="2-解压缩"><a href="#2-解压缩" class="headerlink" title="2. 解压缩"></a>2. 解压缩</h3><p>得到下图文件夹<br><img src="/img/mc/1699364048852.png" alt="1699364048852"></p><h3 id="3-打开文件夹中的HMCL-exe文件"><a href="#3-打开文件夹中的HMCL-exe文件" class="headerlink" title="3. 打开文件夹中的HMCL.exe文件"></a>3. 打开文件夹中的HMCL.exe文件</h3><p><img src="/img/mc/1699364092502.png" alt="1699364092502"></p><h3 id="4-选择离线模式并创建离线模式用户"><a href="#4-选择离线模式并创建离线模式用户" class="headerlink" title="4. 选择离线模式并创建离线模式用户"></a>4. 选择离线模式并创建离线模式用户</h3><p><img src="/img/mc/1699364147112.png" alt="1699364147112"></p><h3 id="5-返回主页，点击下载"><a href="#5-返回主页，点击下载" class="headerlink" title="5. 返回主页，点击下载"></a>5. 返回主页，点击下载</h3><p><img src="/img/mc/1699364217668.png" alt="1699364217668"></p><h3 id="6-找到1-16版本"><a href="#6-找到1-16版本" class="headerlink" title="6. 找到1.16版本"></a>6. 找到1.16版本</h3><p><img src="/img/mc/1699364242559.png" alt="1699364242559"><br>点进去并直接安装</p><h3 id="7-返回主页，点击设置"><a href="#7-返回主页，点击设置" class="headerlink" title="7. 返回主页，点击设置"></a>7. 返回主页，点击设置</h3><p><img src="/img/mc/1699364593144.png" alt="1699364593144"><br><img src="/img/mc/1699364531781.png" alt="1699364531781"></p><h3 id="8-在“服务器地址”一栏中填入以下内容"><a href="#8-在“服务器地址”一栏中填入以下内容" class="headerlink" title="8. 在“服务器地址”一栏中填入以下内容"></a>8. 在“服务器地址”一栏中填入以下内容</h3><p>8.217.210.65:25565</p><p><img src="/img/mc/1699364638289.png" alt="1699364638289"></p><h3 id="9-返回主页，点击启动"><a href="#9-返回主页，点击启动" class="headerlink" title="9. 返回主页，点击启动"></a>9. 返回主页，点击启动</h3><p>（配置java的内容省略，懒）<br>MC，启动！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;使用HMCL启动器玩mc服务器&quot;&gt;&lt;a href=&quot;#使用HMCL启动器玩mc服务器&quot; class=&quot;headerlink&quot; title=&quot;使用HMCL启动器玩mc服务器&quot;&gt;&lt;/a&gt;使用HMCL启动器玩mc服务器&lt;/h1&gt;&lt;h2 id=&quot;下载地址&quot;&gt;&lt;a href</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Γ(x)</title>
