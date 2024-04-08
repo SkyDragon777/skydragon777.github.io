@@ -1,6 +1,4 @@
-http://example.com/2023/11/07/mc/
-http://example.com/2023/11/01/%CE%93(x)/
-http://example.com/2023/11/01/hello-world/
+http://example.com/2024/04/08/websites/
 http://example.com/link/index.html
 http://example.com/category/index.html
 http://example.com/tag/index.html
